@@ -1,4 +1,4 @@
-Gota: what's important for you is the gulpfile, and the docs folder. I've set the repository gh-pages settings to build from /docs, and i've set the gulpfile to build the source into the /docs folder.  
+Gota: what's important for you is the gulpfile, and the docs folder. I've set the repository gh-pages settings to build from /docs, and i've set the gulpfile to build the source into the /docs folder.  https://colevanderswands.github.io/gota/
 
   
 
